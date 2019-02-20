@@ -1,1 +1,2 @@
-Lygansk kryto
+Lygansk kryto(net)
+Doctype 4.3 html
